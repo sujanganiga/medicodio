@@ -1,0 +1,135 @@
+[
+  {
+    "ReportID": "Report 1",
+    "Clinical Terms": [
+      "ASA",
+      "Colonoscopy",
+      "Lactated Ringers",
+      "Lidocaine",
+      "Monitored Anesthesia Care",
+      "Propofol",
+      "Retroflexion"
+    ],
+    "Anatomical Locations": [
+      "Appendiceal Orifice",
+      "Cecum",
+      "Ileocecal Valve",
+      "Rectum"
+    ],
+    "Diagnosis": [
+      "Diverticulosis",
+      "Z86.0100 - Personal history of colonic polyps K64.8 - Internal hemorrhoids K57.90 \u2013",
+      "Z86.0100 History of colon polyps"
+    ],
+    "Procedures": [
+      "Colonoscopy",
+      "Retroflexion"
+    ],
+    "ICD-10": [
+      "K57.90",
+      "K64.8",
+      "Z86.0100"
+    ],
+    "Modifiers": [
+      "ASA",
+      "Lactated Ringers",
+      "Lidocaine",
+      "Monitored Anesthesia Care",
+      "Propofol"
+    ]
+  },
+  {
+    "ReportID": "Report 2",
+    "Clinical Terms": [
+      "Colonoscopy",
+      "Snare"
+    ],
+    "Anatomical Locations": [
+      "Ascending Colon",
+      "Cecum",
+      "Descending Colon",
+      "Rectum",
+      "Sigmoid Colon",
+      "Transverse Colon"
+    ],
+    "Procedures": [
+      "Colonoscopy",
+      "Snare"
+    ],
+    "ICD-10": [
+      "K64.9",
+      "Z12.11"
+    ]
+  },
+  {
+    "ReportID": "Report 3",
+    "Clinical Terms": [
+      "Biopsy",
+      "Colonoscopy",
+      "Retroflexion"
+    ],
+    "Anatomical Locations": [
+      "Appendiceal Orifice",
+      "Cecum",
+      "Ileocecal Valve",
+      "Rectum",
+      "Transverse Colon"
+    ],
+    "Diagnosis": [
+      "K62.5, Hemorrhage of anus and rectum",
+      "K62.6, Ulcer of anus and rectum",
+      "K64.8, Other hemorrhoids"
+    ],
+    "Procedures": [
+      "Biopsy",
+      "Colonoscopy",
+      "Retroflexion"
+    ],
+    "ICD-10": [
+      "K62.5",
+      "K62.6",
+      "K64.8"
+    ],
+    "CPT": [
+      "45380"
+    ]
+  },
+  {
+    "ReportID": "Report 4",
+    "Clinical Terms": [
+      "Biopsy",
+      "Egd",
+      "Lactated Ringers",
+      "Lidocaine",
+      "Monitored Anesthesia Care",
+      "Propofol",
+      "Retroflexion"
+    ],
+    "Anatomical Locations": [
+      "Duodenum",
+      "Esophagus",
+      "Pylorus",
+      "Stomach"
+    ],
+    "Diagnosis": [
+      "R07.89 - Atypical chest pain R10.11 - RUQ pain K29.70 - Gastritis",
+      "R07.89 - Atypical chest pain R10.11 - Right upper quadrant abdominal pain"
+    ],
+    "Procedures": [
+      "Biopsy",
+      "Egd",
+      "Retroflexion"
+    ],
+    "ICD-10": [
+      "K29.70",
+      "R07.89",
+      "R10.11"
+    ],
+    "Modifiers": [
+      "Lactated Ringers",
+      "Lidocaine",
+      "Monitored Anesthesia Care",
+      "Propofol"
+    ]
+  }
+]

@@ -1,0 +1,5 @@
+Diagnosis: 
+Pre-operative Diagnosis: · Z12.11 [Colon cancer screening] 
+Procedure: 
+Procedure: Colonoscopy  - Anal Canal: K64.9 - Hemorrhoids, unspecified (without mention of degree)  - Rectum: Normal  - Sigmoid Colon: Normal  - Descending Colon: Normal  - Splenic Flexure: Normal  - Transverse Colon: Normal  - Hepatic Flexure: Normal  - Ascending Colon: Normal  - Cecum: Normal  - Terminal Ileum: Normal  - Polyps:  - Site: Descending Colon  - Size: 6 mm  - Type: Sessile Polyp  - Device/Method: Cold Snare  - Polyp completely removed and retrieved 
+Complications: No Immediate Complication. 

@@ -1,0 +1,32 @@
+Diagnosis: 
+Pre-operative Diagnosis 
+R07.89 - Atypical chest pain R10.11 - Right upper quadrant abdominal pain 
+Post-operative Diagnosis 
+R07.89 - Atypical chest pain R10.11 - RUQ pain K29.70 - Gastritis 
+Procedures: 
+Procedure Code EGD w/Biopsy 
+Anesthesia Type : Monitored Anesthesia Care  
+Lactated Ringers - Solution, Intravenous as directed - 200 00 , Last Administered By: 
+Smith, George At 1419 on 07/07/2025 Lidocaine HCI 2 % Solution, IV - 60 00 , Last 
+Administered By: Smith, George At 1408 on 07/07/2025 Propofol 500 MG/50ML 
+Emulsion, Intravenous - 350 00 , Last Administered By: Smith, George At 1419 on 
+07/07/2025 
+EGD PROCEDURE : There was nothing precluding endoscopy on history or physical 
+exam. Informed consent was obtained with risks and benefits explained to the patient. 
+The patient tolerated the procedure well. There were no immediate complications The 
+patient was placed in the left lateral decubitus position. The Olympus endoscope was 
+inserted into the esophagus under direct visualization. It was advanced through the 
+esophagus, into the stomach and through the pylorus to the duodenal bulb and 2nd 
+portion of the duodenum. Careful inspection was made as the endoscope was removed 
+including retroflexion in the stomach. Findings- In the distal esophagus there was an 
+irregular Z-line from 38-39 cm suggestive of Barrett's esophagus. This was examined 
+both white light and narrow band imaging. Biopsies were obtained of the distal 
+esophagus. In the stomach there was mild antral and body gastritis. Biopsies were 
+obtained for H.pylori. There were no ulcers or masses seen. The visualized portion of the 
+duodenal appeared normal without ulcers or inflammation. IMPRESSION : The patient 
+is 55-year-old male with atypical chest pain and right upper quadrant pain. Biopsies 
+today were obtained for H.pylori and Barrett's esophagus. If the patient does Barrett's 
+esophagus and a repeat EGD with biopsy in 6 months will be recommended. 
+Post Operative Impression 
+EGD The patient tolerated the procedure without complications. The EGD was 
+uneventful. 

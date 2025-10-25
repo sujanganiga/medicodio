@@ -1,0 +1,30 @@
+Diagnosis: Indication : Last colonoscopy 3 years ago, Rectal bleeding 
+Diagnosis Codes : 
+K62.6, Ulcer of anus and rectum  
+K64.8, Other hemorrhoids  
+K62.5, Hemorrhage of anus and rectum 
+Procedure: Colonoscopy. Before the procedure, time out was performed, the patient 
+was identified, and the procedure was verified. After I obtained informed consent, the 
+scope was passed under direct vision. Throughout the procedure, the patient's blood 
+pressure, pulse, and oxygen saturations were monitored continuously. The 
+Colonoscope was introduced through the anus and advanced to the cecum, identified 
+by appendiceal orifice and ileocecal valve. The colonoscopy was performed without 
+di iculty. The patient tolerated the procedure well. Procedure and risks explained to 
+patient which include but not limited to medication reaction, bleeding, perforation, 
+aspiration and misssed lesions. Prep was good. Washes and suctioning done as needed 
+also so overall good visualization of mucosa. Slow withdrawal on of scope with careful 
+inspection of mucosa for abnormalities. Judicious gas insu lation used on way in. Gas 
+removal was done as much as possible on way out. . Retroflexion done in the rectum. 
+Scope only advanced when lumen identified. The quality of the bowel preparation was 
+evaluated using the BBPS (Boston Bowel Preparation Scale) with scores of: Right Colon 
+= 3 (entire mucosa seen well with no residual staining, small fragments of stool or 
+opaque liquid), Transverse Colon = 3 (entire mucosa seen well with no residual staining, 
+small fragments of stool or opaque liquid) and Left Colon = 3 (entire mucosa seen well 
+with no residual staining, small fragments of stool or opaque liquid). The total BBPS 
+score equals 9. 
+Findings : - A single localized erosion (proctitis) was found in the distal rectum at the anal verge .. 
+Biopsies  
+were taken with a cold forceps for histology. Estimated blood loss was minimal.  - Internal hemorrhoids were found during retroflexion. The hemorrhoids were moderate.  - The exam was otherwise without abnormality on direct and retroflexion views. 
+Impression : - A single erosion in the distal rectum. Biopsied.  - Internal hemorrhoids.  - The examination was otherwise normal on direct and retroflexion views. 
+Procedure Codes : 
+45380, Colonoscopy, flexible; with biopsy, single or multiple 

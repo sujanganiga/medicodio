@@ -1,0 +1,15 @@
+name: clinical-nlp
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pandas
+  - numpy
+  - regex
+  - nltk
+  - spacy
+  - scikit-learn
+  - jupyterlab
+  - pip:
+      - pdfminer.six
